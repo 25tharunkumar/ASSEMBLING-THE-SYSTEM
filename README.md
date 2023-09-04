@@ -4,7 +4,7 @@
 
 
 # Components/ Tools Required:
-
+```
 • Case
 • Motherboard
 • Central Processing Unit
@@ -24,7 +24,8 @@
 • All manuals for each
 component (*can be found
 online if not provided)
-
+```
+```
 ## Step1:Create a Space to Work
 
 • This step is important as all components are small.
@@ -161,7 +162,7 @@ horizontally and be next to the shields previously removed.
 the slots the screws should be replaced to secure the GPU.
 • If your GPU has a cord to connect power, plug that into the corresponding slot into the
 PSU. 
-
+```
 
 # Conclusion
 
