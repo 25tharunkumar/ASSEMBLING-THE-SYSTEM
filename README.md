@@ -168,7 +168,6 @@ PSU.
 
 # Conclusion
 ```
-The build should now be completed. Plug in a mouse and keyboard and connect the monitor to
-the PC, after it is all connected plug in the PSU into an outlet and turn it on. If it does not turn on
+The build should now be completed. Plug in a mouse and keyboard and connect the monitor to the PC, after it is allconnected plug in the PSU into an outlet and turn it on. If it does not turn on
 review all steps and make sure all cords are connected to the right place. 
 ```
