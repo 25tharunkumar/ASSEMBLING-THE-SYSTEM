@@ -2,6 +2,7 @@
 
 # AIM:
 
+To asssemble the system
 
 # Components/ Tools Required:
 ```
