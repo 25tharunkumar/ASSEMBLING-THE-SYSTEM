@@ -36,6 +36,9 @@ To asssemble the system
 component (*can be found
 online if not provided)
 
+
+# PROCEDURE:
+
 ## Step1:Create a Space to Work
 
 • This step is important as all components are small.
