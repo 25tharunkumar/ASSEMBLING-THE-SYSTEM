@@ -37,12 +37,12 @@ component (*can be found
 online if not provided)
 
 ## Step1:Create a Space to Work
-```
+
 • This step is important as all components are small.
 
 • Preferably a flat open space with lots of room to work where you are comfortable
 working.
-```
+
 
 ## Step 2: Installing Motherboard/ Central Processing Unit (CPU)
 
